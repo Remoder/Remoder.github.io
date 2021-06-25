@@ -6,7 +6,7 @@
   <link href="http://remoder.github.io/atom.xml" rel="self"/>
   
   <link href="http://remoder.github.io/"/>
-  <updated>2021-06-25T03:11:53.413Z</updated>
+  <updated>2021-06-25T07:07:33.463Z</updated>
   <id>http://remoder.github.io/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>博客诞生记</title>
-    <link href="http://remoder.github.io/theBrithOfBlog.html"/>
-    <id>http://remoder.github.io/theBrithOfBlog.html</id>
+    <link href="http://remoder.github.io/theBirthOfBlog.html"/>
+    <id>http://remoder.github.io/theBirthOfBlog.html</id>
     <published>2021-06-24T15:07:53.000Z</published>
-    <updated>2021-06-25T03:11:53.413Z</updated>
+    <updated>2021-06-25T07:07:33.463Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="无中生有"><a href="#无中生有" class="headerlink" title="无中生有"></a>无中生有</h2><p>按着 <a href="https://adkcss.coding-pages.com/posts/6e8839eb.html#toc-heading-21">傻瓜式教程</a> 搭完了基础博客。</p><p>无脑按教程走，除了一点：Github 更新后 master 被改名为了 main，设置时要<strong>与时俱进</strong>。</p><p>另外，调整 <code>permalink</code> 的时候末尾还有一个 <code>\</code>，不然点击文章无法进入，而是下载。</p><h2 id="开始美化"><a href="#开始美化" class="headerlink" title="开始美化"></a>开始美化</h2><h3 id="挑选主题"><a href="#挑选主题" class="headerlink" title="挑选主题"></a>挑选主题</h3><p>经过长时间的对比，最终选择了 <a href="https://butterfly.js.org/">ButterFly</a>。</p><h3 id="完善主题"><a href="#完善主题" class="headerlink" title="完善主题"></a>完善主题</h3><ul><li>建立标签页</li><li>建立分类页</li><li>建立友链页<br>友链页代码段在教程中没有分段(似乎是我自己浏览器的问题)，现给出格式化后的代码：  </li></ul><pre><code>  - class_name: 友情鏈接  class_desc: 那些人，那些事  link_list:    - name: Hexo      link: https://hexo.io/zh-tw/      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg      descr: 快速、簡單且強大的網誌框架  - class_name: 網站  class_desc: 值得推薦的網站  link_list:    - name: Youtube      link: https://www.youtube.com/      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png      descr: 視頻網站    - name: Weibo      link: https://www.weibo.com/      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png      descr: 中國最大社交分享平台    - name: Twitter      link: https://twitter.com/      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png      descr: 社交分享平台</code></pre><ul><li><p>创建导航菜单</p><p><strong>主题配置文件</strong> 是指 <code>\themes\butterfly\_config.yml</code></p></li><li><p>修改代码风格</p><p>最终选择了 <code>mac</code></p></li><li><p>修改文章自动节选</p><p>最终选择了 <code>both</code></p></li></ul><p>明天继续，累死老子了</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="无中生有"><a href="#无中生有" class="headerlink" title="无中生有"></a>无中生有</h2><p>按着 <a href="https://adkcss.coding-pages.com/posts/6e8839eb.html#toc-heading-21">傻瓜式教程</a> 搭完了基础博客。</p><p>无脑按教程走，除了一点：Github 更新后 master 被改名为了 main，设置时要<strong>与时俱进</strong>。</p><p>另外，调整 <code>permalink</code> 的时候末尾还有一个 <code>\</code>，不然点击文章无法进入，而是下载。</p><h2 id="开始美化"><a href="#开始美化" class="headerlink" title="开始美化"></a>开始美化</h2><h3 id="挑选主题"><a href="#挑选主题" class="headerlink" title="挑选主题"></a>挑选主题</h3><p>经过长时间的对比，最终选择了 <a href="https://butterfly.js.org/">ButterFly</a>。</p><h3 id="完善主题"><a href="#完善主题" class="headerlink" title="完善主题"></a>完善主题</h3><ul><li>建立标签页</li><li>建立分类页</li><li>建立友链页<br>友链页代码段在教程中没有分段(似乎是我自己浏览器的问题)，现给出格式化后的代码：  </li></ul><pre><code>  - class_name: 友情鏈接  class_desc: 那些人，那些事  link_list:    - name: Hexo      link: https://hexo.io/zh-tw/      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg      descr: 快速、簡單且強大的網誌框架  - class_name: 網站  class_desc: 值得推薦的網站  link_list:    - name: Youtube      link: https://www.youtube.com/      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png      descr: 視頻網站    - name: Weibo      link: https://www.weibo.com/      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png      descr: 中國最大社交分享平台    - name: Twitter      link: https://twitter.com/      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png      descr: 社交分享平台</code></pre><ul><li><p>创建导航菜单</p><p><strong>主题配置文件</strong> 是指 <code>\themes\butterfly\_config.yml</code></p></li><li><p>修改代码风格</p><p>最终选择了 <code>mac</code></p></li><li><p>修改文章自动节选</p><p>最终选择了 <code>both</code></p></li><li><p>背景图片</p><p>主页选择了 <a href="https://api.dujin.org/bing/1920.php">必应每日一图</a><br>其他页面选择了 <a href="https://api.ixiaowai.cn/gqapi/gqapi.php">随机壁纸</a></p></li><li><p>更换头像</p><p>图片放在 <code>\themes\butterfly\source\img</code> 里面</p></li></ul>]]></content>
     
     
     <summary type="html">博客的搭建记录</summary>
@@ -32,46 +32,6 @@
     
     
     <category term="Hexo" scheme="http://remoder.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://remoder.github.io/3632233996.html"/>
-    <id>http://remoder.github.io/3632233996.html</id>
-    <published>2021-06-24T03:09:09.000Z</published>
-    <updated>2021-06-24T03:09:34.241Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="There-is-nothing-but-a-file-to-test"><a href="#There-is-nothing-but-a-file-to-test" class="headerlink" title="There is nothing but a file to test"></a>There is nothing but a file to test</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;There-is-nothing-but-a-file-to-test&quot;&gt;&lt;a href=&quot;#There-is-nothing-but-a-file-to-test&quot; class=&quot;headerlink&quot; title=&quot;There is nothing but a</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://remoder.github.io/1243066710.html"/>
-    <id>http://remoder.github.io/1243066710.html</id>
-    <published>2021-06-24T02:43:01.950Z</published>
-    <updated>2021-06-24T02:43:01.950Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
     
   </entry>
   
