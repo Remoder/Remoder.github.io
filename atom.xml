@@ -6,7 +6,7 @@
   <link href="http://remoder.github.io/atom.xml" rel="self"/>
   
   <link href="http://remoder.github.io/"/>
-  <updated>2021-06-24T03:09:34.241Z</updated>
+  <updated>2021-06-25T02:15:35.653Z</updated>
   <id>http://remoder.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客诞生记</title>
+    <link href="http://remoder.github.io/2021/ckqb2zrfj000138v028eegbzj"/>
+    <id>http://remoder.github.io/2021/ckqb2zrfj000138v028eegbzj</id>
+    <published>2021-06-24T15:07:53.000Z</published>
+    <updated>2021-06-25T02:15:35.653Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="无中生有"><a href="#无中生有" class="headerlink" title="无中生有"></a>无中生有</h2><p>按着 <a href="https://adkcss.coding-pages.com/posts/6e8839eb.html#toc-heading-21">傻瓜式教程</a> 搭完了基础博客。</p><p>无脑按教程走，除了一点：Github 更新后 master 被改名为了 main，设置时要<strong>与时俱进</strong>。</p><h2 id="开始美化"><a href="#开始美化" class="headerlink" title="开始美化"></a>开始美化</h2><h3 id="挑选主题"><a href="#挑选主题" class="headerlink" title="挑选主题"></a>挑选主题</h3><p>经过长时间的对比，最终选择了 <a href="https://butterfly.js.org/">ButterFly</a>。</p><h3 id="完善主题"><a href="#完善主题" class="headerlink" title="完善主题"></a>完善主题</h3><ul><li>建立标签页</li><li>建立分类页</li><li>建立友链页<br>友链页代码段在教程中没有分段，现给出格式化后的代码：  </li></ul><p>‘’’</p><pre><code>- class_name: 友情链接class_desc: 那些人，那些事link_list:- name: Hexo link: https://hexo.io/zh-tw/ avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo. svgdescr: 快速、简单且强大的网志框架- class_name: 网站class_desc: 值得推荐的网站link_list:- name: Youtubelink: https://www.youtube.com/avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.pngdescr: 视频网站- name: Weibo link: https://www.weibo.com/ avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png descr:中国最大社交分享平台- name: Twitter link: https://twitter.com/ avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png descr: 社交分享平台</code></pre><p>‘’’</p><ul><li><p>创建导航菜单</p><p><strong>主题配置文件</strong> 是指 <code>\themes\butterfly\_config.yml</code></p></li><li><p>修改代码风格</p><p>最终选择了 <code>mac</code></p></li><li><p>修改文章自动节选</p><p>最终选择了 <code>both</code></p></li></ul><p>明天继续，累死老子了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;无中生有&quot;&gt;&lt;a href=&quot;#无中生有&quot; class=&quot;headerlink&quot; title=&quot;无中生有&quot;&gt;&lt;/a&gt;无中生有&lt;/h2&gt;&lt;p&gt;按着 &lt;a href=&quot;https://adkcss.coding-pages.com/posts/6e8839eb.htm</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo" scheme="http://remoder.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>test</title>
