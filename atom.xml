@@ -6,7 +6,7 @@
   <link href="http://remoder.github.io/atom.xml" rel="self"/>
   
   <link href="http://remoder.github.io/"/>
-  <updated>2021-06-28T14:13:26.653Z</updated>
+  <updated>2021-07-01T02:07:35.500Z</updated>
   <id>http://remoder.github.io/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>练字第 5 天</title>
+    <link href="http://remoder.github.io/CalligraphyDay5.html"/>
+    <id>http://remoder.github.io/CalligraphyDay5.html</id>
+    <published>2021-06-30T14:49:29.000Z</published>
+    <updated>2021-07-01T02:07:35.500Z</updated>
+    
+    <content type="html"><![CDATA[<img src="\img\calligraphy\210630.jpg">]]></content>
+    
+    
+    <summary type="html">练字第 5 天</summary>
+    
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/categories/%E7%BB%83%E5%AD%97/"/>
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/tags/%E7%BB%83%E5%AD%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>练字第 4 天</title>
+    <link href="http://remoder.github.io/CalligraphyDay4.html"/>
+    <id>http://remoder.github.io/CalligraphyDay4.html</id>
+    <published>2021-06-29T14:48:10.000Z</published>
+    <updated>2021-06-30T14:50:42.679Z</updated>
+    
+    <content type="html"><![CDATA[<img src="\img\calligraphy\210629.jpg">]]></content>
+    
+    
+    <summary type="html">练字第 4 天</summary>
+    
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/categories/%E7%BB%83%E5%AD%97/"/>
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/tags/%E7%BB%83%E5%AD%97/"/>
+    
+  </entry>
   
   <entry>
     <title>练字第 3 天</title>
