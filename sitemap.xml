@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://remoder.github.io/CalligraphyDay10.html</loc>
+    
+    <lastmod>2021-07-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/CalligraphyDay9.html</loc>
+    
+    <lastmod>2021-07-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/CalligraphyDay8.html</loc>
+    
+    <lastmod>2021-07-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://remoder.github.io/CalligraphyDay7.html</loc>
     
     <lastmod>2021-07-03</lastmod>
@@ -95,22 +116,22 @@
 
   <url>
     <loc>http://remoder.github.io/</loc>
-    <lastmod>2021-07-03</lastmod>
+    <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://remoder.github.io/tags/Hexo/</loc>
-    <lastmod>2021-07-03</lastmod>
+    <loc>http://remoder.github.io/tags/%E7%BB%83%E5%AD%97/</loc>
+    <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://remoder.github.io/tags/%E7%BB%83%E5%AD%97/</loc>
-    <lastmod>2021-07-03</lastmod>
+    <loc>http://remoder.github.io/tags/Hexo/</loc>
+    <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -119,7 +140,7 @@
   
   <url>
     <loc>http://remoder.github.io/categories/%E7%BB%83%E5%AD%97/</loc>
-    <lastmod>2021-07-03</lastmod>
+    <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

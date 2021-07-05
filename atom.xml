@@ -6,7 +6,7 @@
   <link href="http://remoder.github.io/atom.xml" rel="self"/>
   
   <link href="http://remoder.github.io/"/>
-  <updated>2021-07-03T07:08:53.736Z</updated>
+  <updated>2021-07-05T14:23:49.508Z</updated>
   <id>http://remoder.github.io/</id>
   
   <author>
@@ -15,6 +15,69 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>练字第 10 天</title>
+    <link href="http://remoder.github.io/CalligraphyDay10.html"/>
+    <id>http://remoder.github.io/CalligraphyDay10.html</id>
+    <published>2021-07-05T14:21:58.000Z</published>
+    <updated>2021-07-05T14:23:49.508Z</updated>
+    
+    <content type="html"><![CDATA[<img src="\img\calligraphy\210705.jpg">]]></content>
+    
+    
+    <summary type="html">练字第 10 天</summary>
+    
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/categories/%E7%BB%83%E5%AD%97/"/>
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/tags/%E7%BB%83%E5%AD%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>练字第 9 天</title>
+    <link href="http://remoder.github.io/CalligraphyDay9.html"/>
+    <id>http://remoder.github.io/CalligraphyDay9.html</id>
+    <published>2021-07-04T14:21:39.000Z</published>
+    <updated>2021-07-05T14:23:36.380Z</updated>
+    
+    <content type="html"><![CDATA[<img src="\img\calligraphy\210704.jpg">]]></content>
+    
+    
+    <summary type="html">练字第 9 天</summary>
+    
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/categories/%E7%BB%83%E5%AD%97/"/>
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/tags/%E7%BB%83%E5%AD%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>练字第 8 天</title>
+    <link href="http://remoder.github.io/CalligraphyDay8.html"/>
+    <id>http://remoder.github.io/CalligraphyDay8.html</id>
+    <published>2021-07-03T14:21:28.000Z</published>
+    <updated>2021-07-05T14:23:23.394Z</updated>
+    
+    <content type="html"><![CDATA[<img src="\img\calligraphy\210703.jpg">]]></content>
+    
+    
+    <summary type="html">练字第 8 天</summary>
+    
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/categories/%E7%BB%83%E5%AD%97/"/>
+    
+    
+    <category term="练字" scheme="http://remoder.github.io/tags/%E7%BB%83%E5%AD%97/"/>
+    
+  </entry>
   
   <entry>
     <title>练字第 7 天</title>
